@@ -1,8 +1,14 @@
 # 🎙️ Voice Controlled Web Assistant
 
+## 🌐 Live Demo
+
+https://deekshabhati2018.github.io/Voice-Controlled-Web-Assistant/
+# 🎙️ Voice Controlled Web Assistant
+
 A browser-based voice assistant built with pure **JavaScript**, **HTML5**, and the **Web Speech API** — no libraries, no frameworks. Speak commands to navigate the page, switch themes, scroll, and get spoken responses back in real time.
 
 ---
+
 
 ## 🖼️ Screenshots
 
